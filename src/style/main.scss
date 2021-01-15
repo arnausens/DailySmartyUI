@@ -27,5 +27,14 @@ body {
 
 $color-gray-one: #666666;
 $color-grey-two: #b3b3b3;
+$color-blue-one: #0079ff;
+ 
+ul {
+    margin: 0;
+    padding: 0;
+    list-style-type: none;
+}
+
 
 @import "./searchBar";
+@import "./recentPosts";
