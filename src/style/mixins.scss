@@ -1,11 +1,6 @@
 @mixin default-page-layout {
   height: 100vh;
   width: 66vw;
-
   display: grid;
   align-content: space-around;
 }
-
-$color-gray-one: #666666;
-$color-grey-two: #b3b3b3;
-$color-blue-one: #0079ff;
